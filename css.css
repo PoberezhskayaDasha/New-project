@@ -17,3 +17,6 @@
 body{
 	background-image: url(sulu-diag-wicker.png);
 }
+.div{
+	display: flex-direction:column;
+}
