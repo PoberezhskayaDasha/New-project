@@ -1,0 +1,19 @@
+.div2 {
+	display: flex-direction: column;
+}
+.de{
+	background-image: url(black-snowflakes.png);
+	color:rgb(255,255,255);
+}
+.xe{
+	background-image:url(fawn-wickard.png);
+}
+.e{
+	background-image: url(light-orange-cubegrid.png);
+}
+.fe{
+	background-image: url(cerulean-cubegrid.png);
+}
+body{
+	background-image: url(sulu-diag-wicker.png);
+}
